@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_925de5ef2816a7f9d3c35fa96950ab4ad0e5cd20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_3ab3d2fdf9a53aefddaacf7a781667fe0efda17c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\libs\gpcj-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78e50526c19588f570e64412ea429a3d1d9f940c">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\2\gpcj-2.2.0_a09b73ee7527529e911f7974ecb6a42c46ac8586\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\libs\andengine-gles2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc7a1c5e1c119ca505219b0ec82ebaacba6d9e10">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\2\andengine-gles2_08de757996ee04e8f8a74f980852b37e5093dc11\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_35e0aae0104fdb2017e5373784179cf5500a9447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\libs\andengine-gles2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc7a1c5e1c119ca505219b0ec82ebaacba6d9e10">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\2\andengine-gles2_fc9bc8454e70ca6d68d4ce4db4475b98f2cfe08a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c5d50095975b059df7b5a4b826f6cb5d09cbc9d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0097360cbc348f7087d835ebdf6b02871bde688b\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8ce13423e48619e9cbe379ac933f14cbd113ed63\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_afb849d0be37a316e6a4710efe4c32e76500032d\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_674a79b27b48c5deed1c8321fa986f740b5d4392\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\libs\andenginephysicsbox2dextension-gles2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b72a76e16287d7ced5b922253a0eb12dafbfd3c">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\2\andenginephysicsbox2dextension-gles2_372c23f189b27358fd1a03ade18a0a74371cb2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_30f179ea69809747f7477297266806edb9a5a65d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2e5db1dac0c6f5d853d26b77fc8725b8d896d294">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_51a9abb9a7c5424615630cba23593519a2e885b1\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_64673878d3bec8871e4a2152104f6970a15616cf\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9dc3a4fda9c0103516559e0a5b6eae0aa4a69338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_8ce13423e48619e9cbe379ac933f14cbd113ed63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KhangLv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a190cdb9ef975e23b605fc00ab2323cd307cfe01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_afb849d0be37a316e6a4710efe4c32e76500032d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_674a79b27b48c5deed1c8321fa986f740b5d4392\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="135bbc87c22690b9d1387a204e55a78e6b048e0e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_caec35d35154253b5bd8caead8739075a9f89de0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_52f98cc833bfd2197e84627a878167e517d2efcb\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fd34417f4daeb03fd65befe544ca07eb5987dcc8">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5c12c44aa6c3f8930fe15aa0f5f142bc7c4cd09c\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_10f63669c0a91b446b476c8913114f9ef7f5874d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\libs\gpcj-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78e50526c19588f570e64412ea429a3d1d9f940c">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\2\gpcj-2.2.0_1d0e87e34ac096858767a07197a1f25f816d2459\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5c65f097c8aa268cf4887622ecaa92ee17efe7bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_35e0aae0104fdb2017e5373784179cf5500a9447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\libs\andengine-gles2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dc7a1c5e1c119ca505219b0ec82ebaacba6d9e10">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\2\andengine-gles2_08de757996ee04e8f8a74f980852b37e5093dc11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_aafc65f0dc44334bcfd817c5764a8a80763387db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_7d0565009c3ddf2b6bb6d0db21bd063a2daba48c\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\libs\andenginephysicsbox2dextension-gles2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b72a76e16287d7ced5b922253a0eb12dafbfd3c">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\2\andenginephysicsbox2dextension-gles2_372c23f189b27358fd1a03ade18a0a74371cb2d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\libs\andenginephysicsbox2dextension-gles2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b72a76e16287d7ced5b922253a0eb12dafbfd3c">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\2\andenginephysicsbox2dextension-gles2_b4073e8e077d4c3f2affb63eff324d6f16feb357\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_30f179ea69809747f7477297266806edb9a5a65d\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0097360cbc348f7087d835ebdf6b02871bde688b\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b41f6a9db2d494f7223283694b8a246875b663e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9dc3a4fda9c0103516559e0a5b6eae0aa4a69338\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_67434f3689b9dee249ab1e7126fe73b14e9d5bdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_10f63669c0a91b446b476c8913114f9ef7f5874d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ae7dbaa44a9af5ef8cb716756d804226abb4e6c9">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5c12c44aa6c3f8930fe15aa0f5f142bc7c4cd09c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d80781f19017e1ba433f0a8e2d560b6aa3b596a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_92146ac3c6b844c39cfa56b5c1f77e2d25ececc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3a5f38b2d07dfdc87b0372f326a5e3e72c5c7476">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_13f9d99cf43f3d8ddfa9aeaadf529e9463341b11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_b41f6a9db2d494f7223283694b8a246875b663e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_5c65f097c8aa268cf4887622ecaa92ee17efe7bc\classes.dex" />
+    </item>
+    <item
+        jar="D:\QLDA\Bring My Water-gr11\app\libs\gpcj-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78e50526c19588f570e64412ea429a3d1d9f940c">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\2\gpcj-2.2.0_1d0e87e34ac096858767a07197a1f25f816d2459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a76490012b4acde35e15ca14f069a2debb87ea61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_64673878d3bec8871e4a2152104f6970a15616cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\bring-s-my-water\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_80b0cc68730122efef7309731c5a8c4047e9d72a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\QLDA\Bring My Water-gr11\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="023788bfdffe658bb9f9a78a00d48028d81d1209">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_caec35d35154253b5bd8caead8739075a9f89de0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\KhangLv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\QLDA\Bring My Water-gr11\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_a190cdb9ef975e23b605fc00ab2323cd307cfe01\classes.dex" />
+    </item>
+
+</items>

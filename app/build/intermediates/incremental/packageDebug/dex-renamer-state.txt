@@ -1,0 +1,7 @@
+#Tue Nov 01 20:39:00 ICT 2016
+base.0=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51a9abb9a7c5424615630cba23593519a2e885b1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13f9d99cf43f3d8ddfa9aeaadf529e9463341b11\\classes.dex
+base.1=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_13f9d99cf43f3d8ddfa9aeaadf529e9463341b11
+file.0=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51a9abb9a7c5424615630cba23593519a2e885b1\\classes.dex
