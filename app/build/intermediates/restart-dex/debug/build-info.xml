@@ -5,33 +5,32 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="262445517748879"
+    timestamp="421372646366892"
     token="-3780833310771026971"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="5770" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="2229" />
+        duration="0" />
     <task
         name="verifier"
-        duration="776" />
-
-    <artifact
-        location="D:\QLDA\bring-s-my-water\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        duration="0" />
 
     <build
-        timestamp="262445517748879"
+        timestamp="418916007474502"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\QLDA\bring-s-my-water\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="421372646366892"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

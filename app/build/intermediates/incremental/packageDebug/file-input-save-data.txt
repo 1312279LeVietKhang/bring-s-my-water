@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Nov 01 20:39:00 ICT 2016
+#Thu Nov 03 16:06:24 ICT 2016
 76.base=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.base=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-v4-24.2.1_a76490012b4acde35e15ca14f069a2debb87ea61
 91.file=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-compat-24.2.1_92146ac3c6b844c39cfa56b5c1f77e2d25ececc7\\classes.dex

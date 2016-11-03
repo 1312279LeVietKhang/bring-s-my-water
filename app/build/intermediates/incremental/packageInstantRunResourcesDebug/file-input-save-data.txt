@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Nov 01 20:38:06 ICT 2016
+#Thu Nov 03 16:05:27 ICT 2016
 5.base=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\assets\\debug
 42.base=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\assets\\debug
 32.set=ASSET

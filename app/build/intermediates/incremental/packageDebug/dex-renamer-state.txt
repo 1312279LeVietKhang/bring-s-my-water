@@ -1,4 +1,4 @@
-#Tue Nov 01 20:39:00 ICT 2016
+#Thu Nov 03 16:06:23 ICT 2016
 base.0=D\:\\QLDA\\bring-s-my-water\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_51a9abb9a7c5424615630cba23593519a2e885b1
 renamed.1=classes2.dex
 renamed.0=classes.dex

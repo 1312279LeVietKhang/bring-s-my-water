@@ -119,7 +119,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="2e5db1dac0c6f5d853d26b77fc8725b8d896d294">
+        sha1="6403b4d5c05c0bf201e44110ec1a25de1d44bbdd">
         <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_51a9abb9a7c5424615630cba23593519a2e885b1\classes.dex" />
     </item>
     <item
@@ -361,7 +361,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="3a5f38b2d07dfdc87b0372f326a5e3e72c5c7476">
+        sha1="bf4657d9bc64e96939dee94982843457620f8470">
         <dex dex="D:\QLDA\bring-s-my-water\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_13f9d99cf43f3d8ddfa9aeaadf529e9463341b11\classes.dex" />
     </item>
     <item
